@@ -1,0 +1,4 @@
+*.png
+*.jpg
+/models/*.h5
+*.log
